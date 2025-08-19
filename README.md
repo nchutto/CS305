@@ -28,4 +28,3 @@ Tools like OWASP Dependency-Check, SSL/TLS certificate management, and secure co
 
 **What might I show employers from this assignment?**  
 I can show the completed secure software practices report as an example of my ability to integrate encryption, apply vulnerability scanning tools, and follow industry best practices. It demonstrates both technical implementation and written documentation skills.
-# CS305
